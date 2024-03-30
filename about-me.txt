@@ -10,5 +10,8 @@ Commands that we learned till now:
 - git log
 - git add
 - git diff
+- git branch
+- git checkout
 
-I am writing this code in branch master
+
+I am writing this code in branch master.
