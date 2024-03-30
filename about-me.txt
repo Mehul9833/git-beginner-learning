@@ -9,3 +9,4 @@ Commands that we learned till now:
 - git status
 - git log
 - git add
+- git diff
