@@ -10,8 +10,6 @@ Commands that we learned till now:
 - git log
 - git add
 - git diff
-
-Added code in about-me
 - git branch
 - git checkout
 
