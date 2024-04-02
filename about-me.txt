@@ -13,5 +13,9 @@ Commands that we learned till now:
 - git branch
 - git checkout
 
+- git branch
+- git checkout
 
+
+I am writing this code in branch master.
 I am writing this code in branch master.
